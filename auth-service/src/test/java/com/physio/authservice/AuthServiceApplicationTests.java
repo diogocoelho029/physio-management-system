@@ -1,4 +1,4 @@
-package com.physio.auth_service;
+package com.physio.authservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

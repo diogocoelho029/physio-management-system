@@ -1,4 +1,4 @@
-package com.physio.auth_service.model;
+package com.physio.authservice.model;
 
 import jakarta.persistence.*;
 import lombok.*;
